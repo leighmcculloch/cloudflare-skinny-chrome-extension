@@ -4,7 +4,7 @@
   "name": "CloudFlare Skinny",
   "author": "Leigh McCulloch",
   "description": "Reduces the height of websites listed when logged into CloudFlare.",
-  "version": "1.1",
+  "version": "1.2",
   "homepage_url": "http://github.com/leighmcculloch/cloudflare-skinny",
 
   "permissions": [
@@ -12,7 +12,7 @@
   ],
   "content_scripts": [
     {
-      "matches": ["https://www.cloudflare.com/my-websites"],
+      "matches": ["https://www.cloudflare.com/my-websites*"],
       "css" : ["override.css"]
     }
   ]
