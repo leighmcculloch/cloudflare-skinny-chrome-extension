@@ -2,9 +2,9 @@
   "manifest_version": 2,
 
   "name": "CloudFlare Skinny",
-  "author": "",
+  "author": "Leigh McCulloch",
   "description": "Reduces the height of websites listed when logged into CloudFlare.",
-  "version": "1.0",
+  "version": "1.1",
   "homepage_url": "http://github.com/leighmcculloch/cloudflare-skinny",
 
   "permissions": [
