@@ -5,7 +5,7 @@
   "author": "Leigh McCulloch",
   "description": "Reduces the height of websites listed when logged into CloudFlare.",
   "version": "1.2",
-  "homepage_url": "http://github.com/leighmcculloch/cloudflare-skinny",
+  "homepage_url": "https://github.com/leighmcculloch/cloudflare-skinny-chrome-extension",
 
   "permissions": [
     "https://www.cloudflare.com/"
