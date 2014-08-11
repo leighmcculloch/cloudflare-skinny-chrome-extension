@@ -1,4 +1,18 @@
-cloudflare-skinny-chrome-extension
-==================================
+# Cloudflare Skinny Chrome Extension
 
-Chrome extension that reduces the height of the rows in the table of websites, making it easier to manage a large number of websites on CloudFlare.
+A Chrome extension that reduces the height of the rows in the table of websites, making it easier to manage a large number of websites on CloudFlare.
+
+Install by visiting:
+
+
+## Screenshots
+
+Before:  
+![Before Screenshot](1_before.png)
+
+After:  
+![After Screenshot](2_after.png)
+
+## License
+
+BSD-2 clause license. See LICENSE file.
